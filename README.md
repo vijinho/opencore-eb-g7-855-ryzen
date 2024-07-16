@@ -13,10 +13,9 @@ Running MacOS Sonoma 14.5. Let me know if you have fixes and improvements. An SM
 ## Working:
 
 - Vega Graphics Acceleration
-- Wifi & Bluetooth0
+- Wifi & Bluetooth
 - Brightness buttons
 - Touchpad with multi-touch
-- SD-Card Reader 
 - USB ports 
 
 ## Not-working:
