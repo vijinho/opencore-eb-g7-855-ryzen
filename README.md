@@ -1,6 +1,6 @@
 # HP EliteBook 855 G7 Opencore Ryzen 5 4650U Laptop
 
-Running MacOS Sonoma 14.5. Let me know if you have fixes and improvements. An SMBIOS is required for *MacbookPro 16,3*
+Running MacOS Ventura 13.6.7 although Sonoma 14.5 will work with occassional freezes and stutters, so better with Ventura for improved stability until the issue is resolved. Let me know if you have fixes and improvements for the internal audio and webcam to work. An SMBIOS is required for *MacbookPro 16,3*
 
 ## Hardware
 
