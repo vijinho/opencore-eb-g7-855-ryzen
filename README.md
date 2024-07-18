@@ -1,6 +1,6 @@
 # HP EliteBook 855 G7 Opencore Ryzen 5 4650U Laptop
 
-Running MacOS Ventura 13.6.7 although Sonoma 14.5 will work with occassional freezes and stutters, so better with Ventura for improved stability until the issue is resolved. Let me know if you have fixes and improvements for the internal audio and webcam to work. An SMBIOS is required for *MacbookPro 16,3*
+Running MacOS Ventura 13.6.7 although Sonoma 14.5 will work with occassional freezes and stutters, so better with Ventura for improved stability until the issue is resolved. Let me know if you have fixes and improvements for the internal audio and webcam to work. An SMBIOS is required for *MacbookPro 16,3* This being a 6-core processor will need modifying of kernel patches if your core count is differs.
 
 ## Hardware
 
@@ -8,18 +8,19 @@ Running MacOS Ventura 13.6.7 although Sonoma 14.5 will work with occassional fre
 - 2 x 16GB DDR4 3200
 - Intel AX200NGW Wifi/Bluetooth    
 - 1080P Screen (non-touch)
-- WD SN520 256GB NVME in WWAN Port
+- WD SN520 256GB NVME (in WWAN Port)
  
 ## Working:
 
 - Vega Graphics Acceleration
 - Wifi & Bluetooth
 - Brightness buttons
-- Touchpad with multi-touch
+- Touchpad 
 - USB ports 
 
 ## Not-working:
 
+- In-built Speakers
 - In-built Microphone
 - In-built Stereo Speakers
 - In-built HP Webcam
