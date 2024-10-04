@@ -2,6 +2,8 @@
 
 Running MacOS Ventura 13.6.7 although Sonoma 14.5 will work with occassional freezes and stutters, so better with Ventura for improved stability until the issue is resolved. Let me know if you have fixes and improvements for the internal audio and webcam to work. An SMBIOS is required for *MacbookPro 16,3* This being a 6-core processor will need modifying of kernel patches if your core count is differs.
 
+**NOTE**: I no longer own this laptop but will accept patchess to the config, or if you improve it, I'll archive this and point to your repo.
+
 ## Hardware
 
 - AMD Ryzen 5 4650U
